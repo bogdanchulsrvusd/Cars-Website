@@ -1,0 +1,141 @@
+
+
+body {
+
+    background-color: rgb(23, 23, 23);
+
+}
+
+h1 {
+
+    font-family: monospace;
+    font-weight: 600;
+    font-size: 28px;
+
+    text-align: center;
+
+    color: rgb(255, 255, 255);
+
+}
+
+h2 {
+
+    font-family: monospace;
+    font-weight: 600;
+    font-size: 22px;
+
+    text-align: center;
+
+    color: rgb(255, 255, 255);
+
+}
+
+p {
+
+    font-family: monospace;
+    font-weight: 600;
+    font-size: 15px;
+
+    text-align: center;
+
+    color: rgb(255, 255, 255);
+    
+    padding: 10px;
+
+}
+
+nav {
+
+    background-color: rgb(0, 0, 0);
+    border-radius: 1rem;
+
+    width: 80%;
+
+    display: block;
+
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#nav-container {
+
+    display: block;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    width: max-content;
+
+}
+
+nav a {
+
+    text-decoration: none;
+    font-family: monospace;
+    font-weight: 600;
+    font-size: 14px;
+
+    color: rgb(255, 255, 255);
+
+    padding: 10px;
+
+}
+
+#index-container {
+
+    background-color: rgb(0, 0, 0);
+    border-radius: 1rem;
+
+    width: 99%;
+
+    display: block;
+
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#index-container img {
+
+    border-radius: 1rem;
+
+    display: block;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 500px;
+    max-width: 95%;
+
+}
+
+#links-container {
+
+    display: block;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+    width: max-content;
+
+}
+
+#links-container a {
+
+    font-family: monospace;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+
+    background-color: rgb(34, 34, 34);
+    border-radius: 1rem;
+
+    padding: 10px;
+
+}
